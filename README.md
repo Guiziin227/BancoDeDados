@@ -2,8 +2,6 @@
 
 Usando para o aprendizado
 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
 | :sparkles: Nome        | **Glossario**
 
 
