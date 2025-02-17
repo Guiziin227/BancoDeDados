@@ -1,3 +1,5 @@
+## GLOSSÁRIO<BR>
+
 1) DB E A RELAÇÃO C/ SISTEMAS GERENCIADOR DO DB (SGBD)
 
 - Um **banco de dados** é um conjunto organizado de informações armazenadas de forma estruturada. O *SGBD* (Sistema de Gerenciamento de Banco de Dados) é o software responsável por gerenciar e manipular esses dados. <br> Ele facilita operações como consultas, inserções e manutenção da integridade e segurança dos dados. 
