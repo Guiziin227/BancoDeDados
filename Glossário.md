@@ -2,7 +2,7 @@
 
 1) DB E A RELAÇÃO C/ SISTEMAS GERENCIADOR DO DB (SGBD)
 
-- Um **banco de dados** é um conjunto organizado de informações armazenadas de forma estruturada. O *SGBD* (Sistema de Gerenciamento de Banco de Dados) é o software responsável por gerenciar e manipular esses dados. <br> Ele facilita operações como consultas, inserções e manutenção da integridade e segurança dos dados. 
+- Um **banco de dados** é um conjunto organizado de informações armazenadas de forma estruturada. O *SGBD* (Sistema de Gerenciamento de Banco de Dados) é o software responsável por gerenciar e manipular esses dados. Ele facilita operações como consultas, inserções e manutenção da integridade e segurança dos dados. 
 
 A relação entre o banco de dados e o SGBD é a seguinte:
 
@@ -16,4 +16,4 @@ A relação entre o banco de dados e o SGBD é a seguinte:
 
 3) MICRO SERVIÇO
 
-Os **microserviços** são uma abordagem arquitetural que divide aplicações em serviços independentes, cada um responsável por uma função específica. Essa estrutura permite que equipes pequenas desenvolvam, testem e implantem serviços de forma autônoma, promovendo maior agilidade e escalabilidade. Cada microserviço comunica-se com os demais por meio de APIs bem definidas, facilitando a integração e manutenção do sistema como um todo. Essa arquitetura é especialmente vantajosa em ambientes de desenvolvimento ágeis e em nuvem, onde a flexibilidade e a escalabilidade são essenciais.
+-Os **microserviços** são uma abordagem arquitetural que divide aplicações em serviços independentes, cada um responsável por uma função específica. Essa estrutura permite que equipes pequenas desenvolvam, testem e implantem serviços de forma autônoma, promovendo maior agilidade e escalabilidade. Cada microserviço comunica-se com os demais por meio de APIs bem definidas, facilitando a integração e manutenção do sistema como um todo. Essa arquitetura é especialmente vantajosa em ambientes de desenvolvimento ágeis e em nuvem, onde a flexibilidade e a escalabilidade são essenciais.
