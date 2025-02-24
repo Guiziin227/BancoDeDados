@@ -63,3 +63,6 @@ O design de um banco de dados parte do modelo, especificando os detalhes técnic
 - **Na prática**: Você pode modelar um sistema primeiro (exemplo: "O cliente faz um pedido"), depois modelar o banco de dados para suportar isso (exemplo: "Tabela de pedidos vinculada aos clientes"), e então projetar ambos com escolhas tecnológicas específicas.
 
 Resumindo, a modelagem é sobre planejamento e abstração, enquanto o design é sobre detalhes e execução. Juntos, eles garantem que você não está apenas programando de forma aleatória, mas criando algo que funcione bem e dure.
+![proj](https://github.com/user-attachments/assets/2446be52-1da1-4757-8bba-24f67b96463e)
+
+
