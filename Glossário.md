@@ -66,3 +66,4 @@ Resumindo, a modelagem é sobre planejamento e abstração, enquanto o design é
 ![proj](https://github.com/user-attachments/assets/2446be52-1da1-4757-8bba-24f67b96463e)
 
 
+![Sem título-2025-02-24-0809](https://github.com/user-attachments/assets/1abb4b77-8a19-4cd0-8948-9943504af31a)
