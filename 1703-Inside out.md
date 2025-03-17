@@ -1,5 +1,5 @@
 ## INSIDE OUT
-<hr>
+
 Departamento(idDepartamento, nome)
 ProcessadorTexto(idProcessadorTexto, desc)
 Projeto(idProjeto, desc)
